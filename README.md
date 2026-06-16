@@ -1,7 +1,5 @@
-#🛒 Super-store-AI-based-interactive-dashboard
-
-# Superstore Sales Analysis
-#📌 Overview
+# 🛒Superstore AI-based Sales Analysis
+#📌 #Overview
 The Superstore dataset offers a realistic look into retail sales, profits, and customer behavior. I explored this dataset to practice end-to-end data analysis using Python and uncover insights that can guide business decisions.
 
 #🎯 Objectives
